@@ -1,7 +1,9 @@
-#chiao-yu
+# self-introduction
 
-#Name: Vita
+chiao-yu
 
-#School: Soochow University
+Name: Vita
 
-#goal: learning the python
+School: Soochow University
+
+goal: learning the python
