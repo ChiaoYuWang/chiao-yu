@@ -1,7 +1,7 @@
-# chiao-yu
+#chiao-yu
 
-# Name: Vita
+#Name: Vita
 
-# School: Soochow University
+#School: Soochow University
 
-# goal: learning the python
+#goal: learning the python
