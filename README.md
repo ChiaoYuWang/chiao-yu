@@ -1,3 +1,7 @@
 # chiao-yu
-#皆さんこんにちは！ビータです！よろしくお願いします。
-#就讀於東吳大學
+
+# Name: Vita
+
+# School: Soochow University
+
+# goal: learning the python
