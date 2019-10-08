@@ -1,7 +1,5 @@
 # self-introduction
 
-chiao-yu
-
 Name: Vita
 
 School: Soochow University
