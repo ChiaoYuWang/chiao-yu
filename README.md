@@ -23,4 +23,4 @@ binary tree 可以代表任何的tree,
 binary tree也分成右邊還有左邊,他下面的subtree的順序是不相關的  
 ps.binary tree 是一個有限的node,要嘛是空的,要嘛就是由一個node還有2個不相交的binary tree組成的,當然也有分左右  
 最近在聽甚麼歌?https://www.youtube.com/watch?v=EZnvEwZ11Fk  
-~~哈哈哈最近好喜歡漢元素的音樂,邊理解演算法聽個音樂當陪襯XD
+~~哈哈哈最近好喜歡漢元素的音樂,邊理解演算法聽個音樂當陪襯XD~~
