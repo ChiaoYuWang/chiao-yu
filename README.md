@@ -14,7 +14,7 @@ Linked-list是由一連串的節點（Node）所構成，每個節點指向下�
 # Week3(9/23-9/27)-Stack & Queue
 # Week4(9/30-10/04)-Set & Insertion Sort
 # Week6(10/14-10/18) Heap Sort 堆積排序法
-# Week8(10/28-11/1) tree
+# Week8(10/28-11/1) Tree
 BINARY TREE
 binary tree 可以代表任何的tree,  
 事實上binary tree是一個常常出現樹狀結構的重要type  
