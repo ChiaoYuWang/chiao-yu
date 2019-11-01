@@ -1,10 +1,12 @@
 # self-introduction
 
-Name: Vita
+姓名: Vita
 
-School: Soochow University
+學校: 東吳大學_巨量資料分析學分學程
 
-goal: learning the python
+正在學....python(初心者!)
+
+
 
 # WEEK1(9/09-9/13)
 # WEEK2(9/16-9/20)-Linked List
